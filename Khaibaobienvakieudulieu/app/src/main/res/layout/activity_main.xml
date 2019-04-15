@@ -73,7 +73,7 @@
             app:layout_constraintStart_toStartOf="@+id/btn_cong"
             android:layout_marginTop="104dp"/>
     <Button
-            android:text="/"
+            android:text="("
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:id="@+id/btn_chia"
