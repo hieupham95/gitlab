@@ -1,2 +1,2 @@
 # gitlab
-try to do git
+Đây là nơi tu luyện git
